@@ -1,0 +1,29 @@
+@import url(reset.css);
+
+h3{
+	margin-left: 105px;
+}
+
+li{
+	padding-top: 26px;
+}
+
+#main{
+	width: 590px;
+	background: #ffffff;
+}
+
+#left{
+	margin-left: 20px;
+}
+
+#right{
+	float: right;
+	margin-right: 20px;
+}
+
+#jpg{
+	padding-top: 6px;
+}
+	
+
